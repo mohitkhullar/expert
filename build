@@ -1,0 +1,1 @@
+gcc -g -I. sqlite3.c expert.c sqlite3expert.c -ldl -lpthread -o sqlite3_expert
